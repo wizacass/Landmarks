@@ -24,6 +24,7 @@
 		86D06CEB263B314600BCE9BB /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D06CEA263B314600BCE9BB /* BadgeBackground.swift */; };
 		86D06CED263B354000BCE9BB /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D06CEC263B354000BCE9BB /* BadgeSymbol.swift */; };
 		86D06CEF263B365400BCE9BB /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D06CEE263B365400BCE9BB /* RotatedBadgeSymbol.swift */; };
+		86D06CF1263B377600BCE9BB /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D06CF0263B377600BCE9BB /* Badge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		86D06CEA263B314600BCE9BB /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		86D06CEC263B354000BCE9BB /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 		86D06CEE263B365400BCE9BB /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
+		86D06CF0263B377600BCE9BB /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				86D06CEA263B314600BCE9BB /* BadgeBackground.swift */,
 				86D06CEC263B354000BCE9BB /* BadgeSymbol.swift */,
 				86D06CEE263B365400BCE9BB /* RotatedBadgeSymbol.swift */,
+				86D06CF0263B377600BCE9BB /* Badge.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				868666522639F7930070ACFB /* ContentView.swift in Sources */,
+				86D06CF1263B377600BCE9BB /* Badge.swift in Sources */,
 				868666622639FDA00070ACFB /* MapView.swift in Sources */,
 				868666502639F7930070ACFB /* LandmarksApp.swift in Sources */,
 				86D06CE4263B2DA500BCE9BB /* FavoriteButton.swift in Sources */,
